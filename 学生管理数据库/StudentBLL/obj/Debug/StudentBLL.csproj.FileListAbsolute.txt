@@ -1,0 +1,12 @@
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\StudentBLL.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\StudentBLL.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\obj\Debug\StudentBLL.csprojAssemblyReference.cache
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\obj\Debug\StudentBLL.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\obj\Debug\StudentBLL.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\StudentDAL.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\StudentModel.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\StudentDAL.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\StudentModel.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\obj\Debug\StudentBLL.csproj.CopyComplete
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\Common.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentBLL\bin\Debug\Common.pdb

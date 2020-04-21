@@ -1,0 +1,5 @@
+D:\Visual Studio 2019\.net\学生管理数据库\Common\bin\Debug\Common.dll
+D:\Visual Studio 2019\.net\学生管理数据库\Common\bin\Debug\Common.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\Common\obj\Debug\Common.dll
+D:\Visual Studio 2019\.net\学生管理数据库\Common\obj\Debug\Common.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\Common\obj\Debug\Common.csprojAssemblyReference.cache

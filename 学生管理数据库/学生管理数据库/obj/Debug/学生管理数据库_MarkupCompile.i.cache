@@ -1,0 +1,20 @@
+﻿学生管理数据库
+
+
+winexe
+C#
+.cs
+D:\Visual Studio 2019\.net\学生管理数据库\学生管理数据库\obj\Debug\
+学生管理数据库
+none
+false
+DEBUG;TRACE
+D:\Visual Studio 2019\.net\学生管理数据库\学生管理数据库\App.xaml
+18-770390815
+
+22324695212
+22818346782
+common\DataGridStyle.xaml;common\PrintModel.xaml;Login.xaml;MainWindow.xaml;View\AddGrade.xaml;View\AddStudent.xaml;View\AttendanceManager.xaml;View\ChangePassword.xaml;View\GradeAdd.xaml;View\GradeManager.xaml;View\GradeUpdat.xaml;View\ImportData.xaml;View\PrintWindow.xaml;View\StudentInfor.xaml;View\StudentPhoto.xaml;View\StuManager.xaml;View\UpdateStuInfor.xaml;View\WebBrowser.xaml;
+
+True
+

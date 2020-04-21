@@ -1,0 +1,10 @@
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\bin\Debug\StudentDAL.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\bin\Debug\StudentDAL.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\obj\Debug\StudentDAL.csprojAssemblyReference.cache
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\obj\Debug\StudentDAL.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\obj\Debug\StudentDAL.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\bin\Debug\StudentModel.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\bin\Debug\StudentModel.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\obj\Debug\StudentDAL.csproj.CopyComplete
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\bin\Debug\Common.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentDAL\bin\Debug\Common.pdb

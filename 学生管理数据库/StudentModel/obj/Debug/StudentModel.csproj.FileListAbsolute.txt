@@ -1,0 +1,5 @@
+D:\Visual Studio 2019\.net\学生管理数据库\StudentModel\bin\Debug\StudentModel.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentModel\bin\Debug\StudentModel.pdb
+D:\Visual Studio 2019\.net\学生管理数据库\StudentModel\obj\Debug\StudentModel.csprojAssemblyReference.cache
+D:\Visual Studio 2019\.net\学生管理数据库\StudentModel\obj\Debug\StudentModel.dll
+D:\Visual Studio 2019\.net\学生管理数据库\StudentModel\obj\Debug\StudentModel.pdb
