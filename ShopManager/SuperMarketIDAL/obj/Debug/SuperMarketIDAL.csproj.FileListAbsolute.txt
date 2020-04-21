@@ -1,0 +1,8 @@
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\bin\Debug\SuperMarketIDAL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\bin\Debug\SuperMarketIDAL.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\bin\Debug\SuperMarketModel.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\bin\Debug\SuperMarketModel.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.csprojAssemblyReference.cache
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.csproj.CopyComplete
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketIDAL\obj\Debug\SuperMarketIDAL.pdb

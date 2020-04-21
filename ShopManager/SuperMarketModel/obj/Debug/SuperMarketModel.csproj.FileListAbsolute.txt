@@ -1,0 +1,5 @@
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketModel\bin\Debug\SuperMarketModel.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketModel\bin\Debug\SuperMarketModel.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketModel\obj\Debug\SuperMarketModel.csprojAssemblyReference.cache
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketModel\obj\Debug\SuperMarketModel.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketModel\obj\Debug\SuperMarketModel.pdb

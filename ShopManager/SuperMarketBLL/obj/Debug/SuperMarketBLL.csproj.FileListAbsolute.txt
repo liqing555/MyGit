@@ -1,0 +1,14 @@
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketBLL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketBLL.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketDAL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketIBLL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketIDAL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketModel.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketDAL.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketIBLL.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketIDAL.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\bin\Debug\SuperMarketModel.pdb
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\obj\Debug\SuperMarketBLL.csprojAssemblyReference.cache
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\obj\Debug\SuperMarketBLL.csproj.CopyComplete
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\obj\Debug\SuperMarketBLL.dll
+D:\Visual Studio 2019\.net\ShopManager\SuperMarketBLL\obj\Debug\SuperMarketBLL.pdb
